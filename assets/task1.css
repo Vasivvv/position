@@ -1,0 +1,26 @@
+.box-1 {
+    width: 450px;
+    height: 380px;
+    background-color: rgb(184, 52, 240);
+    padding: 50px;
+}
+
+.box-2 {
+    width: 350px;
+    height: 280px;
+    background-color: rgb(235, 74, 192);
+    padding: 50px;
+}
+
+.box-3 {
+    border-style: dashed;
+    width: 250px;
+    height: 180px;
+    background-color: yellow;
+    padding: 50px;
+    text-align: center;
+}
+.text{
+    position: relative;
+    margin-top: 70px;
+}
